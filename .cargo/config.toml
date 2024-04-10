@@ -1,0 +1,6 @@
+[target.thumbv7m-none-eabi]
+runner = "probe-rs run --chip {{chip-name}}"
+
+
+[build]
+target = "thumbv7m-none-eabi"        # Cortex-M3

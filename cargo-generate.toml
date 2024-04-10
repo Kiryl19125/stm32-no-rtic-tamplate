@@ -1,0 +1,2 @@
+[placeholders]
+chip-name = { prompt = "Select chip", choices = ["STM32F103C8", "STM32F103C6"], default = "STM32F103C8", type = "string" }
